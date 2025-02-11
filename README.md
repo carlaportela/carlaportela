@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malditacarlita&label=Profile%20views&color=0e75b6&style=flat" alt="malditacarlita" /> </p>
 
-- 🔭 I’m currently working on **learning to improve my GitHub skills.**
+- ↗️ I’m currently working on **learning to improve my GitHub skills.**
 
-- 🌱 I’m currently learning **Python,Typescript, React, Angular, Vue.js, Nodejs and Spring. Django and Docker.**
+- 🏆 I’m currently learning **Python,Typescript, React, Angular, Vue.js, Nodejs and Spring. Django and Docker.**
 
 - 👯 I’m looking to collaborate on **a new developer's project.**
 
 - 🤝 I’m looking for help with **my knowledge on dev's world.**
 
-- 💬 Ask me about **my professional training.**
+- ♻️ Ask me about **my professional training.**
 
-- 📫 How to reach me: **carlaportelaubeira@gmail.com**
+- 📥 How to reach me: **carlaportelaubeira@gmail.com**
 
-- ⚡ Fun fact **Experienced nurse working on being an experienced developer.**
+- ⚡ Fun fact: **Experienced nurse working on being an experienced developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
