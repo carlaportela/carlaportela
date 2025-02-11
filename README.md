@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **my professional training.**
 
-- 📫 How to reach me **carlaportelaubeira@gmail.com**
+- 📫 How to reach me: **carlaportelaubeira@gmail.com**
 
 - ⚡ Fun fact **Experienced nurse working on being an experienced developer.**
 
