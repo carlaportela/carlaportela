@@ -1,3 +1,6 @@
+<a href="https://github.com/MalditaCarlita">
+  <img src="https://github.com/MalditaCarlita/MalditaCarlita/blob/main/JUST%20KEEP%20CODING.png"/>
+</a>
 <h1 align="center">Hi 👋, I'm Carla</h1>
 <h3 align="center">A passionate full stack developer from Spain</h3>
 
