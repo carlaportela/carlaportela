@@ -20,9 +20,9 @@
 
 - ⚡ Fun fact: **Experienced nurse working on being an experienced developer.**
 
-<h3 align="left">Professional training:</h3>
+<h3 align="left">Academic training:</h3>
 <p align="left">
-📋 Ciclo de Grado Superior en Desarrollo de Aplicaciones Web (2022 - 2025).
+📋 Currently studying "Ciclo de Grado Superior en Desarrollo de Aplicaciones Web".
 </p>
 
 <h3 align="left">Connect with me:</h3>
