@@ -1,5 +1,5 @@
-<a href="https://github.com/MalditaCarlita">
-  <img src="https://github.com/MalditaCarlita/MalditaCarlita/blob/main/JUST%20KEEP%20CODING.png"/>
+<a href="https://github.com/carlaportela">
+  <img src="https://github.com/carlaportela/carlaportela/blob/main/JUST%20KEEP%20CODING.png" alt="carlaportela_logo"/>
 </a>
 <h1 align="center">Hi 👋, I'm Carla</h1>
 <h3 align="center">A passionate full stack developer from Spain</h3>
@@ -28,8 +28,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carla-portela-ubeira-malditacarlita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carla-portela-ubeira-malditacarlita" height="30" width="40" /></a>
-<a href="https://fb.com/malditacarlita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malditacarlita" height="30" width="40" /></a>
-<a href="https://instagram.com/maldita_carlita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maldita_carlita" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
