@@ -46,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
   <img src="https://images.stripeassets.com/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" alt="stripe" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudiocode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svgalt="netbeans" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" alt="netbeans" width="40" height="40"/>
 </p>
   
 
