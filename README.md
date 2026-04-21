@@ -50,7 +50,7 @@ I build modern web applications focused on performance, scalability and user exp
 ### 🛍️ E-commerce Platform - "Maldita Carlita"
 
 <p align="center">
-  <img src="URL_DE_CAPTURA_DEL_PROYECTO" width="80%" />
+  <img src="https://github.com/carlaportela/carlaportela/blob/main/localhost_malditatenda_desktop.png" width="80%" />
 </p>
 
 > Full stack web application for an artisan brand
