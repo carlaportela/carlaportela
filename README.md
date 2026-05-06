@@ -35,12 +35,12 @@ I build modern web applications focused on performance, scalability and user exp
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlaportela&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=carlaportela&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlaportela&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=carlaportela&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlaportela&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlaportela&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
