@@ -1,0 +1,55 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # cada 12 horas
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # 👇 MUY IMPORTANTE
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: carlaportela
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Europe/Madrid
+
+          # 📊 Lenguajes
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+
+          # 🔥 Racha (tipo streak)
+          plugin_isocalendar: yes
+
+          # 📅 Actividad
+          plugin_activity: yes
+          plugin_activity_limit: 5
+
+          # 🧠 Repos destacados
+          plugin_repositories: yes
+          plugin_repositories_featured: 
+
+          # 🎯 Hábitos de código
+          plugin_habits: yes
+
+          # 📈 Contribuciones
+          plugin_lines: yes
+
+          # 🏆 Logros
+          plugin_achievements: yes
+
+          # 💡 Tema visual
+          config_display: large
+          config_padding: 20
+
+          # 📁 Output
+          filename: github-metrics.svg
