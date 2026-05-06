@@ -16,7 +16,7 @@ I build modern web applications focused on performance, scalability and user exp
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=carlaportela&label=Profile%20views&color=0e75b6&style=flat"/>
-  <img src="https://img.shields.io/github/followers/carlaportela?label=Followers&style=flat&color=0e75b6"/>
+  <img src="https://img.shields.io/github/followers/carlaportela?style=flat&label=Followers&color=0e75b6" />
 </p>
 
 ---
