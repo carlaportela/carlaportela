@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           user: carlaportela
-          template: repository
+          template: classic
           base: header, activity, community, repositories, metadata
 
           config_timezone: Europe/Madrid
