@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,11 +13,11 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # 👇 MUY IMPORTANTE
+         
           token: ${{ secrets.GITHUB_TOKEN }}
 
           user: carlaportela
-          template: classic
+          template: repository
           base: header, activity, community, repositories, metadata
 
           config_timezone: Europe/Madrid
