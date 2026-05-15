@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/carlaportela">
-    <img src="https://github.com/carlaportela/carlaportela/blob/main/JUST%20KEEP%20CODING.png" alt="carlaportela_logo" width="70%"/>
+    <img src="https://github.com/carlaportela/carlaportela/blob/main/Banner%20LinkedIn.png" alt="carlaportela_logo" width="70%"/>
   </a>
 </p>
 
