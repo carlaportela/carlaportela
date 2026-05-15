@@ -79,7 +79,8 @@ I build modern web applications focused on performance, scalability and user exp
 **Frontend:** HTML, CSS, JavaScript, Tailwind, Bootstrap  
 **Backend:** PHP (Laravel), Java  
 **Databases:** MySQL, Oracle  
-**Currently learning:** React, TypeScript, Node.js, Docker  
+**Currently working with:** React, TypeScript
+**Learning:** Node.js, Docker 
 
 ---
 
