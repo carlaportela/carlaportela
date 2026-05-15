@@ -100,12 +100,6 @@ HTML • CSS • JavaScript • PHP • Java • MySQL • Git • Tailwind
 
 ---
 
-## 📫 Contact
-
-📥 **Email:** [carlaportelaubeira@gmail.com](mailto:carlaportelaubeira@gmail.com)
-
----
-
 ## ⚡ Background
 
 🩺 Former nurse transitioning into tech, bringing strong problem-solving skills, discipline and real-world responsibility into software development.
