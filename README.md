@@ -36,7 +36,6 @@ I build modern web applications focused on performance, scalability and user exp
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlaportela&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=carlaportela&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
